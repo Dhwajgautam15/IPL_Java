@@ -1,7 +1,6 @@
 package IPL_java;
 
 public class Delivery {
-
     private String match_id;
     private String inning;
     private String batting_team;
